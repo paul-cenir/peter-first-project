@@ -1,0 +1,11 @@
+body {
+    background-color: #151c1b;
+}
+
+h1,h2,h3,h4,h5,p,span {
+    color: #ffffff;
+}
+.col-centered {
+    display: inline-block ;
+    float: none ;
+}
